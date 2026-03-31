@@ -1,8 +1,8 @@
 public class MenuItem {
 
-    String name;
-    String category;
-    double price;
+    private String name;
+    private String category;
+    private double price;
 
     public MenuItem(String name, String category, double price) {
         this.name = name;
