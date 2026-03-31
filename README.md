@@ -1,4 +1,4 @@
-Mini Cashier System
+# Mini Cashier System
 This project is a simple mini cashier system made using Java. The goal of this program is to simulate a basic cashier process where a user can view a menu, add items to an order, calculate the total price, and checkout. The program is separated into several classes so that each part of the system has its own responsibility. This also helps make the code easier to read and organize.
 System Description
 The menu items are stored using an ArrayList. Each item in the menu has three main properties which are the name, the category, and the price. When the user selects an item from the menu, that item will be added to another list called the order list. This list represents what the customer wants to buy.
