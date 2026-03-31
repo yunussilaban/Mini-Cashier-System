@@ -10,7 +10,7 @@ public class Main {
         ArrayList<MenuItem> menuList = new ArrayList<MenuItem>();
         ArrayList<MenuItem> orderList = new ArrayList<MenuItem>();
 
-        // menu example
+    
         menuList.add(new MenuItem("Fried Rice", "Food", 15000));
         menuList.add(new MenuItem("Mie Ayam", "Food", 12000));
         menuList.add(new MenuItem("Ice Tea", "Drink", 5000));
